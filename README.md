@@ -13,6 +13,7 @@ The models were implemented manually for learning purposes and trained on a text
 Logistic Regression was implemented from scratch and used for binary classification of emails.
 
 Result:Accuracy: 80%
+
 2. Multinomial Naive Bayes (MNB) (Teammate)
 
 Multinomial Naive Bayes was implemented and evaluated on the same dataset.
